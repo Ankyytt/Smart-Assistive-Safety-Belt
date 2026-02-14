@@ -119,6 +119,18 @@ Each alert includes:
 
 ---
 
+## 👥 Team
+
+**Team Name:** Bad Boyz  
+
+**Members:**  
+- Ankit Das  
+- Deepanshu Mehra  
+- Ayush Shukla  
+- Aaryan Brar  
+
+---
+
 ## 📜 License
 
 This project is developed for academic and research purposes.
